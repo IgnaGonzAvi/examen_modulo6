@@ -1,0 +1,16 @@
+{
+ "gastos": [
+  {
+   "id": "aa3721",
+   "roommate": "Martha Dixon",
+   "descripcion": "Articulos de limpieza",
+   "monto": 20000
+  },
+  {
+   "id": "f78e13",
+   "roommate": "Laurie Jones",
+   "descripcion": "Articulos de limpieza",
+   "monto": 20000
+  }
+ ]
+}
